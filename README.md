@@ -103,12 +103,13 @@ memory.push(result); // store result
 double lastResult = memory.top(); // recall last result
 memory.pop(); // undo last result
 ```
-Benefits:
-
-
+ Benefits:
 LIFO (Last-In-First-Out) ensures the most recent result is easily retrievable.
 Supports “undo last calculation” and keeps track of history.
-=====================================================================================================================================================
+
 
 Summary:-
 This calculator demonstrates effective use of OOP principles including classes, encapsulation, abstraction, composition, and modularity, providing a user-friendly, maintainable, and extensible scientific calculator that can handle arithmetic, scientific functions, and equations up to 3 variables.
+=====================================================================================================================================================
+
+
